@@ -12,6 +12,7 @@
     <modules>
         <module>musrec-core</module>
         <module>musrec-ui</module>
+        <module>musrec-api</module>
     </modules>
 
     <properties>
